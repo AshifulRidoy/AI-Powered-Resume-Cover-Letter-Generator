@@ -1,6 +1,5 @@
 # AI-Powered Resume & Cover Letter Generator
 
-An intelligent system that customizes resumes and cover letters based on job descriptions using Google Gemini AI, with predefined guidelines and prompts for professional, industry-specific content generation.
 
 ## ✨ Features
 
