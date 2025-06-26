@@ -1,0 +1,16 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files we want to always be normalized and converted
+*.py text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+*.csv text
+*.ini text
+*.env text
+
+# Linguist settings for Python
+*.py linguist-language=Python 
